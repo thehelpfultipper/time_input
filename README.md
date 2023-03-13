@@ -1,4 +1,4 @@
-# Time Input
+# Custom Time Input
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/thehelpfultipper/pen/zYLJqYg](https://codepen.io/thehelpfultipper/pen/zYLJqYg).
 
